@@ -1,0 +1,17 @@
+section {
+    width: 1200px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div {
+    border: 2px solid;
+    padding: 50px;
+    width: 450px;
+}
+
+#but11 {
+    margin-bottom: 30px;
+}
